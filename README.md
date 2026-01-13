@@ -1,4 +1,4 @@
-# ECE 569 Fall 2025 Lab 1
+# ECE 569 Spring 2026 Lab 1
 
 Welcome to ECE 569! You should proceed to [Step 1](/Step1).
 
