@@ -8,7 +8,7 @@ On your Ubuntu machine (eceprog or your own), right-click on the desktop backgro
 ```bash
 mkdir -p ~/ece569-spring2026
 ```
-*Note: this course will require the use of the terminal. If you are unfamiliar with a command or any of its flags (such as `-p`), you can add a `--help` flag to the end of the command, or run `man <your command>` to view the manual's entry for that command, if it exists. For example, you can run `man mkdir` to find out more about the `mkdir` command.*
+*Note: this course will require the use of the terminal. If you are unfamiliar with a command or any of its flags (such as `-p`), you can add a `--help` flag to the end of the command, or run `man <your command>` to view the manual's entry for that command, if it exists. For example, you can run `man mkdir` to find out more about the `mkdir` command. There are hundreds of guides to using the terminal if you have never used it before. I recommend reading through [this article from ubuntu](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview) to get a really solid foundation.*
 
 ### Setup Github
 
