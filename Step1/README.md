@@ -42,7 +42,7 @@ _Be sure to replace your name and email with your actual name and email._
 
 ### Duplicate the Lab 1 Repository
 
-In order to complete Lab 1, you will need to duplicate this repository. Go to [this link](https://github.itap.purdue.edu/ece569-spring2026/Lab1) and then click the green `Use the template` button in the top right corner. On the next page, be sure to set the `Owner` to your username, and the `Repository Name` to `Lab1`. See the screenshot below for details. Finally, press `Create repository`. Your own repository should be created in a few seconds.
+In order to complete Lab 1, you will need to duplicate this repository. Go to [this link](https://github.com/purdue-ece569-spring2026/Lab1/) and then click the green `Use the template` button in the top right corner. On the next page, be sure to set the `Owner` to your username, and the `Repository Name` to `Lab1`. See the screenshot below for details. Finally, press `Create repository`. Your own repository should be created in a few seconds.
 
 <img src="lab1_create_repository.png" alt="screenshot of creating repository" width="60%"/>
 
