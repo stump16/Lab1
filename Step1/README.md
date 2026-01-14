@@ -14,7 +14,7 @@ mkdir -p ~/ece569-spring2026
 
 You will need to setup an SSH key to access read/write from Github. Try following the instructions below first. Additional instructions are provided [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) and [here](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account) if you get stuck. 
 
-Open a new terminal and run the following (replacing `your_email` with the email associated with your Purdue github account):
+Open a new terminal and run the following (replacing `your_email` with the email associated with your github account):
 ```bash
 ssh-keygen -t ed25519 -C "your_email@purdue.edu"
 ```
@@ -46,7 +46,7 @@ In order to complete Lab 1, you will need to duplicate this repository. Go to [t
 
 <img src="lab1_create_repository.png" alt="screenshot of creating repository" width="60%"/>
 
-Once your repository has been created, go to its `Settings -> Collaborators` and click the green `Add people` button and then add `ldihel`. 
+Once your repository has been created, go to its `Settings -> Collaborators` and click the green `Add people` button and then add `logdog` (the github account name of your TA, Logan Dihel). 
 
 <img src="lab1_give_logan_access.png" alt="screenshot of settings" width="100%"/>
 
