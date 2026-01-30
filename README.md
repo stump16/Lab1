@@ -4,9 +4,9 @@ Welcome to ECE 569! You should proceed to [Step 1](/Step1).
 
 The name and email fields below will be filled in during Step 1.
 
-Name: `your name here`
+Name: `Emma Stump`
 
-Email: `your email here`
+Email: `stump16@purdue.edu`
 
 ## Lab Report (Overleaf)
 
